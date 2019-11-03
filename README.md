@@ -10,7 +10,7 @@ Aplikasi Katalog Band Music Rock
 * Rock Band Details (Country, Genres, Popular Songs, Band Information)
 * Rock Band's Song link in spotify
 
-# Screencapture
+# App Preview
 <p align="center">
 <img src="https://media.giphy.com/media/J2saB8zALcYxgHaKcG/giphy.gif"/>
 </p>
